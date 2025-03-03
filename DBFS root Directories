@@ -1,0 +1,9 @@
+# 1.
+%fs ls dbfs:/
+
+
+# 2
+%fs ls file:/
+
+# 3.
+%fs mounts

@@ -1,0 +1,3 @@
+# this is the location where mount point are located.
+
+%fs ls /mnt

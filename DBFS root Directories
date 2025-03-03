@@ -1,7 +1,6 @@
 # 1.
 %fs ls dbfs:/
 
-
 # 2
 %fs ls file:/
 
